@@ -1,8 +1,14 @@
 package src.examen;
 
+/**
+ * Public class Main
+ */
 public class Main {
+    /**
+     * Metodo main de la clase main
+     * @param args args del main
+     */
     public static void main(String[] args) {
-
         Gestor g1 = new Gestor("Antonio","666 123456");
         Gestor g2 = new Gestor("Adela","667 987654",20000);
 
